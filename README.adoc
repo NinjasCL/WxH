@@ -1,0 +1,35 @@
+:ext-relative:
+:toc: macro
+:toclevels: 4
+
+# DOME WxH Game
+
+This is a small game
+using https://domeengine.com[DOME Engine] and https://itch.io/jam/nokiajam3[Nokia Jam specs].
+
+## https://itch.io/jam/domejam-2021[DOME Jam 2021 Entry]
+
+This Jam was about ~Minimal~. So this game was made with the minimal input possible: *NOTHING*.
+
+The objective is simple. Just resize the Window screen until the equation became true
+in the least possible tries.
+
+Have fun!
+
+image:game.gif[Screenshot, scaledwidth="200%"]
+
+## 📘 LICENSE
+MIT
+
+## 🤩 Credits
+
+- Resources by https://phillipp.itch.io/nokiajamresources[Nokia Jam Resources].
+
+++++
+<p>
+  Made with <i class="fa fa-heart">&#9829;</i> by
+  <a href="https://ninjas.cl">
+    Ninjas.cl
+  </a>.
+</p>
+++++
